@@ -1,5 +1,12 @@
 ###################
-What is CodeIgniter
+Photographers gallery system
+###################
+
+Build to give photographers a private gallery to show the fotoshoot to there clients. Also a way to let clients select wich images they want out of a photoshoot. 
+
+
+###################
+Build with CodeIgniter
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
