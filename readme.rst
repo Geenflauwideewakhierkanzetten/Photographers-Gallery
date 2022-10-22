@@ -42,12 +42,14 @@ Installation
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
+If you require assistance in installing and or setting up the system you can contact me at pjcasteels@gmail.com. I would be happy to assist for a fee.
+
 *******
 License
 *******
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+The hole system can be used for private or commercial use. But a donation would be appreciated. This took a long time to create.
+You can donate threw paypal to pjcasteels@gmail.com
 
 *********
 Resources
