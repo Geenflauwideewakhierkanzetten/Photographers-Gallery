@@ -21,12 +21,10 @@ for a given task.
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+This is a as is repo. I will not be making any changes unless I am paid to do so.
 
 **************************
-Changelog and New Features
+Changelog and New Features Codeigniter
 **************************
 
 You can find a list of all changes for each release in the `user
@@ -70,10 +68,3 @@ Resources
 
 Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
