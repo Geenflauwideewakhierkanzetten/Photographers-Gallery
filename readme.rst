@@ -55,7 +55,7 @@ If you require assistance in installing and or setting up the system you can con
 License
 *******
 
-The hole system can be used for private or commercial use. But a donation would be appreciated. This took a long time to create.
+The hole system can be used for private use, you can not sell this as your own. If you would like to sell this in a package of your own contact me and I am sure we can come to some kind or a agreement. If you use it privatly a donation would be appreciated. This took a long time to create.
 You can donate threw paypal to pjcasteels@gmail.com
 
 *********
